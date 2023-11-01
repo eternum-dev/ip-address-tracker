@@ -1,0 +1,79 @@
+:root {
+  font-family: "Rubik", sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  font-size: 62.5%;
+
+  --VeryDarkGray: hsl(0, 0%, 17%);
+  --DarkGray: hsl(0, 0%, 59%);
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  min-width: 100vw;
+  height: 100%;
+}
+
+#app {
+  width: clamp(300px, 100%, 1440px);
+  margin: 0 auto;
+  border: 1px solid black;
+}
+
+#map {
+  height: 100vh;
+  z-index: 1;
+}
+
+.section-top {
+  background-image: url(/src/images/pattern-bg-mobile.png);
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  align-items: center;
+}
+.home {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  gap: 2.5rem;
+}
+.home__header {
+  margin-top: 2.5rem;
+}
+.home__title {
+  font-size: 3rem;
+  color: white;
+  font-weight: 500;
+}
+.home__form {
+  display: flex;
+  width: clamp(250px, calc(100vw - 4rem), 650px);
+  margin-bottom: 18rem;
+}
+.home__form input {
+  padding: 1.5rem 2rem;
+  border-radius: 0.8rem 0 0 0.8rem;
+  border: 0;
+  height: 100%;
+  width: 100%;
+}
+.home__form button {
+  padding: 1.5rem;
+  border-radius: 0 0.8rem 0.8rem 0;
+  border: 0;
+  background-color: black;
+}
+
+@media (min-width: 768px) {
+  .section-top{
+    background-image: url(src/images/pattern-bg-desktop.png);
+  }
+} 
