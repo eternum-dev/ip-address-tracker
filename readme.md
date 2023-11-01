@@ -108,7 +108,10 @@ This is a solution to the [IP Address Tracker](https://www.frontendmentor.io/cha
 
 - [Overview](#overview)
   - [Proyect](#Proyect)
-  - [Screenshot](#screenshot) -[desktop](#desktop) -[movil](#movil)
+  - [Screenshot](#screenshot)
+  - [desktop](#desktop)
+    [Tablet](#tablet)
+  - [movil](#movil)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [Environment Variables Configuration](#Environment-Variables-Configuration)
@@ -130,11 +133,19 @@ Your users should be able to:
 
 #### desktop
 
-  <image src="src\assets\images\nameImage.png" alt="nameImage">
+<image src="src\images\design\desktop-top.png" alt="desktop-top">
+<image src="src\images\design\desktop-bot.png" alt="desktop-bot">
 
-#### movil
+#### tablet
 
-   <image src="src\assets\images\nameImage.png" alt="nameImage">
+<image src="src\images\design\tablet-top.png" alt="tablet-top">
+<image src="src\images\design\tablet-bot.png" alt="tablet-bot">
+
+#### Mobil
+
+<image src="src\images\design\mobile-top.png" alt="mobile-top">
+<image src="src\images\design\mobile-mid.png" alt="mobile-mid">
+<image src="src\images\design\mobile-bot.png" alt="mobile-bot">
 
 ## My process
 
@@ -168,7 +179,7 @@ Your users should be able to:
 
 1. Create a file named `.env` at the root of the project.
 2. Copy the content from the `env.template` file and fill in the required variables as per the provided instructions.
-3. login  https://geo.ipify.org/ and get your api-key.
+3. login https://geo.ipify.org/ and get your api-key.
 
 ### Script proyect
 
