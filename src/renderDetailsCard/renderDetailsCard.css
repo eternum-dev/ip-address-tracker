@@ -36,6 +36,7 @@
   .details {
     flex-direction: row;
     justify-content: space-between;
+    align-items: center;
     bottom: -15%;
     padding: 3rem;
     text-align: start;
