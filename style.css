@@ -37,6 +37,7 @@ body {
   flex-direction: column;
   position: relative;
   align-items: center;
+  padding-top: 2.5rem;
 }
 .home {
   display: flex;
@@ -46,7 +47,7 @@ body {
   gap: 2.5rem;
 }
 .home__header {
-  margin-top: 2.5rem;
+  margin-top: 1.5rem;
 }
 .home__title {
   font-size: 3rem;
@@ -73,7 +74,7 @@ body {
 }
 
 @media (min-width: 768px) {
-  .section-top{
+  .section-top {
     background-image: url(src/images/pattern-bg-desktop.png);
   }
-} 
+}

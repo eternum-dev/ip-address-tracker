@@ -8,15 +8,15 @@ esta es la solucion a [desafío de la aplicación IP Address Tracker - Frontend 
 
 - [Visión general](#visión-general)
   - [Proyecto](#proyecto)
-  - [Capturas de pantalla](#capturas-de-pantalla)
+  - [Mockups](#mockup)
     - [Escritorio](#escritorio)
-    - [Tablet](#tablet)
     - [Móvil](#móvil)
 - [Mi Proceso](#mi-proceso)
   - [Desarrollado con](#desarrollado-con)
   - [Configuración de Variables de Entorno](#configuración-de-variables-de-entorno)
   - [Instalación](#instalación)
 - [Autor](#autor)
+- [screenshot](#screenshot)
 
 ## Visión general
 
@@ -29,23 +29,16 @@ Sus usuarios deberían poder:
 - Vea el diseño óptimo para cada página según el tamaño de pantalla de su dispositivo.
 - Ver estados de desplazamiento para todos los elementos interactivos en la página.
 
-### Capturas de pantalla
+### mockup
 
 #### Escritorio
 
-<image src="src\images\design\desktop-top.png" alt="desktop-top">
-<image src="src\images\design\desktop-bot.png" alt="desktop-bot">
-
-#### tablet
-
-<image src="src\images\design\tablet-top.png" alt="tablet-top">
-<image src="src\images\design\tablet-bot.png" alt="tablet-bot">
+<image src="src\images\mockup\desktop.png" alt="mockup-desktop">
 
 #### Movil
 
-<image src="src\images\design\mobile-top.png" alt="mobile-top">
-<image src="src\images\design\mobile-mid.png" alt="mobile-mid">
-<image src="src\images\design\mobile-bot.png" alt="mobile-bot">
+
+<image src="src\images\mockup\mobil.png" alt="mockup-mobile">
 
 ## Mi Proceso
 
@@ -108,15 +101,18 @@ This is a solution to the [IP Address Tracker](https://www.frontendmentor.io/cha
 
 - [Overview](#overview)
   - [Proyect](#Proyect)
-  - [Screenshot](#screenshot)
+  - [Mockups](#mockups)
     - [desktop](#desktop)
-    - [Tablet](#tablet)
     - [movil](#movil)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [Environment Variables Configuration](#Environment-Variables-Configuration)
   - [installation](#installation)
 - [Author](#author)
+- [screenshot](#screenshot)
+  - [desktop](#desktop)
+  - [tablet](#tablet)
+  - [mobil](#mobil)
 
 ## Overview
 
@@ -129,23 +125,16 @@ Your users should be able to:
 - View the optimal layout for each page depending on their device's screen size
 - See hover states for all interactive elements on the page
 
-### Screenshot
+### Mockups
 
 #### desktop
 
-<image src="src\images\design\desktop-top.png" alt="desktop-top">
-<image src="src\images\design\desktop-bot.png" alt="desktop-bot">
-
-#### tablet
-
-<image src="src\images\design\tablet-top.png" alt="tablet-top">
-<image src="src\images\design\tablet-bot.png" alt="tablet-bot">
+<image src="src\images\mockup\desktop.png" alt="mockup-desktop">
 
 #### Mobil
 
-<image src="src\images\design\mobile-top.png" alt="mobile-top">
-<image src="src\images\design\mobile-mid.png" alt="mobile-mid">
-<image src="src\images\design\mobile-bot.png" alt="mobile-bot">
+<image src="src\images\mockup\mobil.png" alt="mockup-mobile">
+
 
 ## My process
 
@@ -197,3 +186,19 @@ Your users should be able to:
 
 - Linkedin - [Linkedin - Alejandro Thon](www.linkedin.com/in/alejandrothon/)
 - Email - alejandro.thon.j@gmail.com
+
+
+
+
+### Screenshot
+
+#### desktop
+
+<image src="src\images\screenshot\desktop-default.png" alt="desktop">
+<image src="src\images\screenshot\desktop-resolve.png" alt="desktop-resolve">
+
+
+#### Mobil
+
+<image src="src\images\screenshot\mobile.png" alt="mobile">
+<image src="src\images\screenshot\mobile-map.png" alt="mobile-map">
